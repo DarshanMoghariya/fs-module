@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "D",
+        "email": "-schimmel.test",
+        "password": "abcdefghijklmnopqrstu"
+    },
+    {
+        "name": "Darshan",
+        "email": "darshan-schimmel.test",
+        "password": "defghijklmnopqrstu",
+        "id": 2
+    },
+    {
+        "name": "Patel_Darshan",
+        "email": "ptel12darshan-schimmel.test",
+        "password": "vjbffewiodefghijklmnopqrstu",
+        "id": 3
+    }
+]
